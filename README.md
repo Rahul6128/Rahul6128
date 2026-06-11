@@ -231,19 +231,28 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rahul6128/Rahul6128/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ⚠️ **Note:** To enable the snake animation, add this GitHub Actions workflow in your repo:
-> `.github/workflows/snake.yml` — [copy from here](https://github.com/Platane/snk#readme)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul6128&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7c3aed&point=00d9ff&area=true&area_color=7c3aed&radius=8&custom_title=Rahul6128's%20Contribution%20Graph" width="100%" />
+</div>
 
 ---
 
-*"The best way to predict the future is to build it."*
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a3a,100:0a1628&height=80&section=footer" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul6128/Rahul6128/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul6128/Rahul6128/output/github-contribution-grid-snake.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/Rahul6128/Rahul6128/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <em>"The best way to predict the future is to build it."</em>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a3a,100:0a1628&height=80&section=footer" width="100%"/>
