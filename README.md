@@ -193,11 +193,11 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 
 ### 💡 Currently Exploring
 ```
-▸ Advanced Data Structures and Algorithms, OOPS
-▸ Operating Systems, Computer Networks
+▸ Advanced Data Structures & Algorithms, OOPS
+▸ Operating System, Computer Networks
 ▸ Advanced RAG — reranking, hybrid search
 ▸ LLMOps & production deployment
-▸ Campus placements — Aug 2026
+▸ Campus Placements — Aug 2026
 ```
 
 </td>
