@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Header Banner
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:061428,50:0d1f3c,75:130a30,100:1a0a3a&height=160&section=header&text=Rahul%20Prajapati&fontSize=58&fontColor=ffffff&fontAlignY=62&animation=fadeIn" />
@@ -223,14 +224,6 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul6128&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7c3aed&point=00d9ff&area=true&area_color=7c3aed&radius=8&custom_title=Rahul6128%27s%20Contribution%20Graph" />
-</p>
-
----
-
 ## 📊 Contribution Activity
 
 <div align="center">
@@ -256,3 +249,21 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a3a,100:0a1628&height=80&section=footer" width="100%"/>
+=======
+## Hi there 👋
+
+<!--
+**Rahul6128/Rahul6128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> a4ed920ea7fc3a2afa8e18cce7daf77128c117ad
