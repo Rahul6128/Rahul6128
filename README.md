@@ -207,18 +207,15 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 ---
 
 ## Profile Summary
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul6128&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul6128&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul6128&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahul6128&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rahul6128&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul6128&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rahul6128&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahul6128&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
