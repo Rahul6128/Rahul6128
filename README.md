@@ -254,7 +254,7 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 ![](https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/1-repos-per-language.svg)
 ```
 
-    
+![](https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/0-profile-details.svg)
 
 ---
 
