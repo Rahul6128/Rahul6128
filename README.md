@@ -220,11 +220,19 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 ---
 
 ## 📊 Profile Summary
-![](https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/3-stats.svg)
-![](https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/4-productive-time.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/0-profile-details.svg" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/2-most-commit-language.svg" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/4-productive-time.svg" />
+</div>
 ---
 
 ## 📊 Contribution Activity
