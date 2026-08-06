@@ -37,7 +37,7 @@
 class RahulPrajapati:
     name        = "Rahul Prajapati"
     role        = "Full Stack Developer | AI / ML Engineer | BTech in Electronics & Communication Engineering "
-    college     = "BIT Mesra, Ranchi  —  Graduating 2027  |  CGPA: 8.38"
+    college     = "BIT Mesra, Ranchi  —  Graduating 2027  |  CGPA: 8.36"
     domains     = ["Web Development", "Machine Learning", "Android Dev", "REST APIs"]
     achievement = "🏆 Top 5 — Smart India Hackathon 2024 (Legal AI)"
     languages   = ["Python", "Java", "JavaScript","C/C++"]
