@@ -220,6 +220,25 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul6128&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul6128&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://your-own-streak-stats.vercel.app/?user=Rahul6128&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Trophy section (optional, uncomment if you want it)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahul6128&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+-->
+
+---
+
 ## 📊 Profile Summary
 ![](https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/Rahul6128/Rahul6128/main/profile-summary-card-output/holi/1-repos-per-language.svg)
