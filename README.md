@@ -43,7 +43,7 @@ class RahulPrajapati:
     languages   = ["Python", "Java", "JavaScript","C/C++"]
     stack       = ["React", "Node.js", "Django", "Flask", "Docker"]
     databases   = ["MySQL", "MongoDB"]
-    reach_me    = [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul8279praj@gmail.com)
+    reach_me = "📩 rahul8279praj@gmail.com"
 ```
 
 ---
