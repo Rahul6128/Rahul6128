@@ -208,7 +208,7 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rahul6128&background=1a1a3d&border=2196f3&ring=00e5ff&fire=0091ea&currStreakNum=ffffff&sideNums=00e5ff&currStreakLabel=2196f3&sideLabels=64b5f6&dates=e0e0e0&stroke=2196f3" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rahul6128&background=0d1117&border=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=e0e0e0&stroke=58a6ff" />
 </div>
 
 ---
