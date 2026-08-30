@@ -237,9 +237,6 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 </div>
 
 ---
-
----
-
 ---
 
 ## 🐍 Contribution Snake
