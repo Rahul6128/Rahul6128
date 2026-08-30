@@ -208,7 +208,7 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul6128&theme=tokyo-night" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul6128&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
