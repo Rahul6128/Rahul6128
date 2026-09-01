@@ -154,31 +154,20 @@ Java tool for detecting plagiarism in text using multiple similarity algorithms 
 
 </td>
 </tr>
-<!-- <tr>
-<td width="50%" valign="top">
-
-<!-- ### 🤖 AI Payroll Automation Chatbot
-Secure payroll system for Enlaz platform. JWT auth, rule-based salary engine, attendance-driven calc, PDF payslip generation. AI for read-only explanation only.
-
-**Stack:** `FastAPI` `JWT` `Streamlit` `Python`
-
-[→ View Repo](https://github.com/swastik2475/AI-Assisted-Payroll-Automation-chatbot-)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧳 Travel Mitra — AI Travel Assistant
-ANN regression for travel time prediction. NLP-based destination recommendations and itinerary generation.
-
-**Metrics:** `R² = 0.91` · `40% ↑ itinerary relevance`
-
-**Stack:** `TensorFlow` `ANN` `NLP` `Scikit-Learn`
-
-[→ View Repo](https://github.com/swastik2475/Travel-mitra)
-
-</td>
-</tr> -->
 <tr>
+<td width="50%" valign="top">
+
+### 💬 Sentiment Analysis - RNN Text Classification System
+A machine learning-powered Sentiment Analysis System that classifies movie reviews as positive or negative using Recurrent Neural Networks (RNN). This full-stack application features a trained SimpleRNN model, Streamlit web interface, and IMDB dataset integration for accurate sentiment classification with 85.8% accuracy.
+
+**Stack:** `TensorFlow` `Keras` `Streamlit` `RNN`
+
+[→ View Repo](https://github.com/Rahul6128/Sentiment-Analysis-RNN)
+
+</td>
+<!-- <td width="50%" valign="top">
+
+
 <!-- <td width="50%" valign="top">
 
 <!-- ### 🌿 Crop Disease Segmentation
