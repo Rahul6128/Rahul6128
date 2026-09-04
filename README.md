@@ -221,9 +221,8 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 
 ## 📊 Contribution Activity
 <div align="center">
-  <img src="https://YOUR-NEW-DOMAIN.vercel.app/graph?username=Rahul6128&theme=nightowl&hide_border=true&radius=8&custom_title=Rahul6128's%20Contribution%20Graph" width="100%" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Rahul6128&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&title_color=58a6ff&hide_border=true&radius=8&custom_title=Rahul6128's%20Contribution%20Graph" width="100%" />
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
