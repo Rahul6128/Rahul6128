@@ -25,7 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-prajapati-05680736a/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Rahul6128)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahul8279praj@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=swastik2475&color=00d9ff&style=flat-square&label=Visitors)](https://github.com/Rahul6128)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rahul6128&color=00d9ff&style=flat-square&label=Visitors)](https://github.com/Rahul6128)
 
 </div>
 
