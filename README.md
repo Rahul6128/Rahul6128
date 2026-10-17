@@ -225,9 +225,12 @@ Serverless fraud detection that scores merchant payments in 5-minute windows wit
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 💡 Currently Exploring
-```
+
+```text
 ▸ Advanced Data Structures & Algorithms, OOPS
 ▸ Operating System, Computer Networks
 ▸ Advanced RAG — reranking, hybrid search
