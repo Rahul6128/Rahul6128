@@ -179,7 +179,7 @@ Java tool that detects text similarity between files and generates reports.<br>
 <td width="50%" valign="top">
 
 ### 💬 Sentiment Analysis - RNN Text Classification System
-A machine learning-powered Sentiment Analysis System that classifies movie reviews as positive or negative using Recurrent Neural Networks (RNN). This full-stack application features a trained SimpleRNN model, Streamlit web interface, and IMDB dataset integration for accurate sentiment classification with 85.8% accuracy.
+RNN-based classifier that labels IMDB movie reviews as positive or negative, with a Streamlit web interface. 85.8% accuracy.
 
 **Stack:** `TensorFlow` `Keras` `Streamlit` `RNN`
 
