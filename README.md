@@ -168,7 +168,7 @@ Offline RAG for Indian legal documents: PDF → chunks → embeddings → FAISS 
 <td width="50%" valign="top">
 
 ### 🏗️ Plagiarism-Checker
-Java tool that detects text similarity between files and generates reports.
+Java tool that detects text similarity between files and generates reports.<br>
 **Stack:** `Java` `Java Swing` `CLI` `JDK` `IDE`
 
 [→ View Repo](https://github.com/Rahul6128/Plagiarism-Checker)
