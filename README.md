@@ -98,7 +98,7 @@ class RahulPrajapati:
 ### 🧠 Core CS
 
 [![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_%26_Algorithms-8250DF?style=for-the-badge)](https://github.com/Rahul6128)
-[![OOP](https://img.shields.io/badge/OOP-0969DA?style=for-the-badge)](https://github.com/Rahul6128)
+[![OOPS](https://img.shields.io/badge/OOP-0969DA?style=for-the-badge)](https://github.com/Rahul6128)
 [![Concurrency](https://img.shields.io/badge/Concurrency-BF3989?style=for-the-badge)](https://github.com/Rahul6128)
 [![System Design](https://img.shields.io/badge/System_Design-1A7F37?style=for-the-badge)](https://github.com/Rahul6128)
 
