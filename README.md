@@ -186,20 +186,45 @@ RNN-based classifier that labels IMDB movie reviews as positive or negative, wit
 [→ View Repo](https://github.com/Rahul6128/Sentiment-Analysis-RNN)
 
 </td>
-<!-- <td width="50%" valign="top">
+<td width="50%" valign="top">
 
+### 🌫️ SaansAlert — Air-Quality PE Planner
+Serverless system that turns live PM2.5 data into outdoor-PE verdicts (GO / SHORTEN / INDOORS) for schools.
 
-<!-- <td width="50%" valign="top">
+**Highlights:** `Hourly auto-updates` · `Alerts only on verdict change` · `5 unit tests`
 
-<!-- ### 🌿 Crop Disease Segmentation
-Pixel-level disease localization on crop leaf images. Helps farmers detect infected regions for early intervention.
+**Stack:** `Python` `AWS Lambda` `DynamoDB` `SNS` `EventBridge` `SAM`
 
-**Stack:** `PyTorch` `CNN` `Image Segmentation`
+[→ View Repo](https://github.com/Rahul6128/Saans-Alert-)
 
-[→ View Repo](https://github.com/swastik2475/crop-disease-image-segmentation)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!-- </td> --> 
-<td width="50%" valign="top"> 
+### 📜 Bulk Certificate Generator
+FastAPI backend that generates certificates in bulk in the background, with per-recipient failure isolation and job progress tracking.
+
+**Highlights:** `Async jobs` · `Failure isolation` · `9 passing tests`
+
+**Stack:** `FastAPI` `SQLAlchemy` `Pillow` `SQLite` `pytest`
+
+[→ View Repo](https://github.com/Rahul6128/Certificate-Generator) · [→ Live Demo](https://certificate-generator-udm4.onrender.com/docs)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ SpikeGuard — Payment Fraud Detection
+Serverless fraud detection that scores merchant payments in 5-minute windows without blocking transactions.
+
+**Metrics:** `1.00 precision/recall (clear attacks)` · `0.90 recall (subtle attacks)` · `0 false flags on flash sales`
+
+**Stack:** `Python` `AWS Lambda` `API Gateway` `DynamoDB` `SNS` `CloudFormation`
+
+[→ View Repo](https://github.com/Rahul6128/Spike-guard)
+
+</td>
+</tr>
 
 ### 💡 Currently Exploring
 ```
