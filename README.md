@@ -133,7 +133,7 @@ class RahulPrajapati:
 <td width="50%" valign="top">
 
 ### 🔬 Order Matching Engine (2025)
-Designed and implemented a concurrent, scalable order matching engine leveraging goroutines and channels for high throughput, simulating stock exchange trading logic with support for both limit and market orders.
+Concurrent stock-exchange order matching engine in Go, using goroutines and channels, with limit and market orders.
 
 **Stack:** `GoLang` `TiDB` `MySQL` `GiN`
 
@@ -143,8 +143,7 @@ Designed and implemented a concurrent, scalable order matching engine leveraging
 <td width="50%" valign="top">
 
 ### 🐀 RodentAI — CV Detection System
-Real-time rodent detection around parked vehicles. Custom **YOLOv11n** trained on ~400 images. Works in low-light with optional ultrasonic deterrence.
-
+Real-time rodent detection around parked vehicles using a custom YOLOv11n, including in low light.
 **Metrics:** `77.4% mAP@50` · `79% Precision` · `72% Recall`
 
 **Stack:** `YOLOv11n` `Ultralytics` `OpenCV`
@@ -157,7 +156,7 @@ Real-time rodent detection around parked vehicles. Custom **YOLOv11n** trained o
 <td width="50%" valign="top">
 
 ### ⚖️ Nyaya Sathi — Legal AI · RAG
-Local RAG for Indian legal documents. PDF ingestion → chunking → **all-MiniLM-L6-v2** embeddings → FAISS retrieval → LLM response. Fully offline, privacy-safe. Voice I/O included.
+Offline RAG for Indian legal documents: PDF → chunks → embeddings → FAISS → LLM answer, with voice I/O.
 
 **Impact:** `~70% ↓ search time` · `~38% ↑ retrieval accuracy` · **🏆 Top 5 SIH 2024**
 
@@ -169,8 +168,7 @@ Local RAG for Indian legal documents. PDF ingestion → chunking → **all-MiniL
 <td width="50%" valign="top">
 
 ### 🏗️ Plagiarism-Checker
-Java tool for detecting plagiarism in text using multiple similarity algorithms and generating detailed reports. A simple Java application to detect text similarity between files using a basic word-by-word matching approach.
-
+Java tool that detects text similarity between files and generates reports.
 **Stack:** `Java` `Java Swing` `CLI` `JDK` `IDE`
 
 [→ View Repo](https://github.com/Rahul6128/Plagiarism-Checker)
